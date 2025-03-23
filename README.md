@@ -1,6 +1,9 @@
-# RPN83P
+# RPN83P CE
 
-RPN calculator app for the TI-83 Plus and TI-84 Plus inspired by the HP-42S.
+> [!IMPORTANT]
+> This repository is a work-in-progress port of the RPN83P app to run on CE edition calculators (e.g. TI-84 Plus CE). No functional release is available yet and many sections of the readme and documentation have not been updated.
+
+RPN calculator app for the TI-83 Premium CE and TI-84 Plus CE based on [bxparks/RPN83P](https://github.com/bxparks/RPN83P)
 
 RPN83P is an [RPN](https://en.wikipedia.org/wiki/Reverse_Polish_notation)
 calculator app for the [TI-83 Plus
@@ -152,7 +155,7 @@ Guide](docs/USER_GUIDE.md), but here is the quick version:
 
 - Download the `rpn83p.8xk` file from the
   [releases page](https://github.com/bxparks/rpn83p/releases).
-- Upload the file to the TI-83 Plus or TI-84 Plus calculator. Use one of
+- Upload the file to the TI-83 Premium CE or TI-84 Plus CE calculator. Use one of
   following link programs:
     - Windows or MacOS: [TI Connect](https://education.ti.com/en/products/computer-software/ti-connect-sw)
     - Linux: [tilp](https://github.com/debrouxl/tilp_and_gfm) (`$ apt install
